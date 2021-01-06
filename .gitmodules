@@ -1,0 +1,3 @@
+[submodule "lib_base"]
+	path = lib_base
+	url = https://github.com/LloydFinch/lib_base.git
